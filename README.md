@@ -2,6 +2,7 @@
 
 ## Functionalities
 - Calculate and display BMI
+- Display BMI category
 
 ## Used technologies
 - Dotnet Core 2.1
